@@ -1,0 +1,27 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build output
+Debug/
+Release/
+x64/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+
+# IntelliSense
+*.ipch
+*.VC.db
+*.VC.opendb
+
+# Project-specific
+ProjectFinal/

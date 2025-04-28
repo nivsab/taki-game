@@ -1,0 +1,23 @@
+﻿  Source.c
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(72,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(128,98): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[15]'
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(128,89): warning C4024: 'removeCardFromPlayer': different types for formal and actual parameter 6
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(134,55): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[15]'
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(134,46): warning C4024: 'addCardToPlayer': different types for formal and actual parameter 3
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(147,53): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[15]'
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(147,44): warning C4024: 'addCardToPlayer': different types for formal and actual parameter 3
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(149,97): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[15]'
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(149,88): warning C4024: 'removeCardFromPlayer': different types for formal and actual parameter 6
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(151,45): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(151,39): warning C4024: 'handlePlayerTurnEnd': different types for formal and actual parameter 2
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(151,83): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(151,71): warning C4024: 'handlePlayerTurnEnd': different types for formal and actual parameter 5
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(69,55): warning C4101: 'maxIndex': unreferenced local variable
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(70,72): warning C4101: 'temp': unreferenced local variable
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(215,29): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(215,29): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(217,29): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(217,29): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(223,29): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\nivsa\source\repos\Project\Taki game\Source.c(223,29): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Taki game.vcxproj -> C:\Users\nivsa\source\repos\Project\Taki game\x64\Debug\Taki game.exe
